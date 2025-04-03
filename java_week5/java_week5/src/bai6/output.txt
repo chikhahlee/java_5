@@ -1,7 +1,0 @@
---- Nội dung từ file: D:\week4\src\bai6\input_1.txt ---
-aS
-S
-
---- Nội dung từ file: D:\week4\src\bai6\input_2.txt ---
-aa
-
